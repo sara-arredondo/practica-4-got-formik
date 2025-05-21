@@ -25,7 +25,7 @@ function Banner() {
       textShadow: "1px 1px 3px black",
     }}
   >
-    Busca tu personaje favorito
+    Haz parte de GoT
   </Typography>
 </Box>
   )

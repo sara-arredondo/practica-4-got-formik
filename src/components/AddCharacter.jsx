@@ -27,6 +27,7 @@ const validate = values => {
     } else if (!values.imageUrl.includes("https")) {
         errors.imageUrl = "Debe ser una URL de imagen válida";
     }
+
     return errors;
 }
 
