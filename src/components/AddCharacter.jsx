@@ -19,7 +19,7 @@ const validate = values => {
     }
 
     if (!values.family) {
-        errors.family = 'La familia es obligatorio';
+        errors.family = 'La familia es obligatoria';
     }
 
     if (!values.imageUrl) {
